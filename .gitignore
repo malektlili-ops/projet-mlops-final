@@ -1,0 +1,9 @@
+# Ignorer les secrets
+*.json
+client-secret.json
+test-key.json
+
+# Ignorer les dossiers système/cache
+.dvc/
+data/
+__pycache__/

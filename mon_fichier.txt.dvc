@@ -1,0 +1,5 @@
+outs:
+- md5: aea5430e48ea124765edd7cd887d45b4
+  size: 54
+  hash: md5
+  path: mon_fichier.txt
